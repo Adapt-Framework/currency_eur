@@ -7,6 +7,8 @@
         <namespace>\adapt\currency\eur</namespace>
         <copyright>2016 Matt Bruton</copyright>
         <license>MIT</license>
+        <type>currency</type>
+        <version>1.0.0</version>
         <website>http://www.adaptframework.com/documentaion/extentions/currency_eur</website>
         <depends_on>
             <bundle>
@@ -35,6 +37,8 @@
                         <label>Euro</label>
                         <iso_code>EUR</iso_code>
                         <decimal_places>2</decimal_places>
+                        <decimal_separator>.</decimal_separator>
+                        <thousands_separator>,</thousands_separator>
                         <symbol_whole>€</symbol_whole>
                         <symbol_partial>¢</symbol_partial>
                         <symbol_whole_html>&amp;euro;</symbol_whole_html>
