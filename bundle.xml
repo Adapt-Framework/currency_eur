@@ -5,6 +5,8 @@
         <label>Currency EUR</label>
         <description>Euro</description>
         <namespace>\adapt\currency\eur</namespace>
+        <version_status>release</version_status>
+        <availability>public</availability>
         <copyright>2016 Matt Bruton</copyright>
         <license>MIT</license>
         <type>currency</type>
