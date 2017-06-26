@@ -7,11 +7,18 @@
         <namespace>\adapt\currency\eur</namespace>
         <version_status>release</version_status>
         <availability>public</availability>
-        <copyright>2016 Matt Bruton</copyright>
+        <copyright>2017 Matt Bruton</copyright>
         <license>MIT</license>
         <type>currency</type>
         <version>0.9.0</version>
-        <website>http://www.adaptframework.com/documentaion/extentions/currency_eur</website>
+        <vendor>
+            <name>Adapt Framework</name>
+            <website>https://www.adaptframework.com</website>
+        </vendor>
+        <author>
+            <name>Matt Bruton</name>
+            <email>matt.bruton@gmail.com</email>
+        </author>
         <depends_on>
             <bundle>
                 <name>adapt</name>
